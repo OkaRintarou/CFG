@@ -1,9 +1,9 @@
 N:
-Z
+S
 T:
 a,b,d,ε
 S:
-Z
+S
 P:
-Z
+S
 a,b,d,ε
